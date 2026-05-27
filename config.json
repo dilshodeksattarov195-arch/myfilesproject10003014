@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingvtringify",
+        "uuid": 11603900,
+        "checksum": "6iidkd"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
